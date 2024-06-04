@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lyzander Marciano Andrylie</h1>
+<p align="center">Computer science student who wants to learn to be better.</p>
 
-<!--
-**LyzanderAndrylie/LyzanderAndrylie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 I’m currently studying computer science at [**Universitas Indonesia**](https://www.ui.ac.id/)
 
-Here are some ideas to get you started:
+- 💡 I’m currently learning [**The Odin Project**](https://www.theodinproject.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I write articles on [https://medium.com/@lyzanderandrylie](https://medium.com/@lyzanderandrylie)
+
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nestjs,django,fastapi,spring,postgresql" />
+  </a>
+</p>
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LyzanderAndrylie&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LyzanderAndrylie&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LyzanderAndrylie&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
