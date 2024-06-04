@@ -16,7 +16,8 @@
 </p>
 
 ## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LyzanderAndrylie&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LyzanderAndrylie&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LyzanderAndrylie&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LyzanderAndrylie&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyzanderAndrylie&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyzanderAndrylie&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
