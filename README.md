@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying computer science at [**Universitas Indonesia**](https://www.ui.ac.id/)
 
-- 💡 I’m currently learning [**The Odin Project**](https://www.theodinproject.com/)
+- 💡 I’m currently learning from [**The Odin Project**](https://www.theodinproject.com/)
 
 - 📝 I write articles on [https://medium.com/@lyzanderandrylie](https://medium.com/@lyzanderandrylie)
 
