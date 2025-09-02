@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lyzander Marciano Andrylie</h1>
-<p align="center">Computer science student who wants to learn to be better.</p>
+<p align="center">Computer Science graduate and lifelong learner passionate about technology and continuous growth.</p>
 
-- 🏫 I'm currently studying computer science at [**Universitas Indonesia**](https://www.ui.ac.id/)
+- 🏫 I studied Computer Science at [**Universitas Indonesia**](https://www.ui.ac.id/)
 
 - 💡 I've completed my learning from [**The Odin Project**](https://www.theodinproject.com/)
 
